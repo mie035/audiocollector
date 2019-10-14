@@ -1,3 +1,8 @@
+# Abstract
+
+this app enable audio file on line app to be gathered in slack channel.
+Line bot, Line messaging api and slack api are required.
+
 # node-js-getting-started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
